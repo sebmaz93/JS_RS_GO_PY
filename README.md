@@ -1,6 +1,6 @@
-## JavaScript - Rust - Go - Python
+## Syntax Showdown
 
-#### a set of small projects demonstrating the same concept using
+#### a set of small projects demonstrating the same concept using different languages :
 - JavaScript / TypeScript
 - Rust
 - Go
