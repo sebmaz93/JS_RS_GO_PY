@@ -9,6 +9,6 @@
 #### 📦 Current list of projects
 - REST API using Prisma. (WIP)
 
-💡 feel free to contribute or add more languages.
+💡 feel free to contribute adding more languages & projects.
 
 
